@@ -1,2 +1,2 @@
 # Hackathon
-The Hackathon conducted by TFA
+The ML Hackathon conducted by TFA
